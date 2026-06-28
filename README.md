@@ -47,7 +47,7 @@
 
 ### 下载预编译 Exe
 
-从 [Releases](https://github.com/huangharen/BatteryMonitor/releases) 页面下载 `BatteryMonitor.exe`，双击运行即可。
+从 [Releases](https://github.com/huangharen/Battery-Monitor/releases) 页面下载 `BatteryMonitor.exe`，双击运行即可。
 
 > 无需安装 Python 或任何依赖.
 
